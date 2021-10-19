@@ -1,0 +1,23 @@
+body {
+    background: radial-gradient(#E040FB 0%, #42A5F5 100%);
+    font-family: 'Yeon Sung';
+}
+
+p {
+    letter-spacing: 5px;
+    font-size:20px;
+}
+.header {
+    background-color:gold;
+    color:indianred;
+}
+.footer{
+    background-color:gold;
+    color:indianred;
+    position:sticky;
+    text-align:center;
+    line-height: 1.8;
+    text-shadow:3px 3px #FF6E40;
+    font-size:27px;
+    letter-spacing: 5px;
+}
